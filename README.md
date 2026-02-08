@@ -28,8 +28,8 @@ CNN filters were visualized to understand what biological patterns the model lea
 
 🧩 Learned Motifs
 <img src="Analysis_visualization/motif_analysis1.png" width="500"> 
-<img src="Analysis_visualization/otif_analysis1.png" width="500">
-<img src="Analysis_visualization/otif_analysis3.png" width="500">
+<img src="Analysis_visualization/motif_analysis1.png" width="500">
+<img src="Analysis_visualization/motif_analysis3.png" width="500">
  
 🧠 Biological Interpretation
 
@@ -104,8 +104,6 @@ Recall	0.87
 F1-Score	0.87
 
 Balanced performance across both classes.
-
-
 
 🚀 How to Run
 # Train model
