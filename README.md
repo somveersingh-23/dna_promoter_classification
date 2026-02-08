@@ -21,8 +21,26 @@ Promoters are DNA regions that control gene expression.
 They often contain **specific sequence motifs** (e.g., AT-rich regions) that can be learned automatically by deep learning models like CNNs.
 
 ---
+## Motif Visualization & Interpretation 
+🔬 Motif Visualization & Interpretation
+
+CNN filters were visualized to understand what biological patterns the model learned.
+
+🧩 Learned Motifs
+<img src="Analysis_visualization/motif_analysis1.png" width="500"> 
+<img src="Analysis_visualization/otif_analysis1.png" width="500">
+<img src="Analysis_visualization/otif_analysis3.png" width="500">
+ 
+🧠 Biological Interpretation
+
+Strong A/T rich patterns observed
+
+These motifs are consistent with known promoter regions
+
+Indicates the CNN is learning biologically meaningful features, not random noise  
 
 ## 🗂️ Project Structure
+
 
 ```text
 dna_promoter_classification/
@@ -87,22 +105,7 @@ F1-Score	0.87
 
 Balanced performance across both classes.
 
-🔬 Motif Visualization & Interpretation
 
-CNN filters were visualized to understand what biological patterns the model learned.
---- 
-🧩 Learned Motifs
-<img src="Analysis_visualization/motif_analysis1.png" width="500"> 
-<img src="Analysis_visualization/otif_analysis1.png" width="500">
-<img src="Analysis_visualization/otif_analysis3.png" width="500">
---- 
-🧠 Biological Interpretation
-
-Strong A/T rich patterns observed
-
-These motifs are consistent with known promoter regions
-
-Indicates the CNN is learning biologically meaningful features, not random noise
 
 🚀 How to Run
 # Train model
