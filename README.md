@@ -27,8 +27,9 @@ They often contain **specific sequence motifs** (e.g., AT-rich regions) that can
 CNN filters were visualized to understand what biological patterns the model learned.
 
 🧩 Learned Motifs
+
 <img src="Analysis_visualization/motif_analysis1.png" width="500"> 
-<img src="Analysis_visualization/motif_analysis1.png" width="500">
+<img src="Analysis_visualization/motif_analysis2.png" width="500">
 <img src="Analysis_visualization/motif_analysis3.png" width="500">
  
 🧠 Biological Interpretation
