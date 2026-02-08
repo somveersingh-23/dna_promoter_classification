@@ -90,11 +90,12 @@ Balanced performance across both classes.
 🔬 Motif Visualization & Interpretation
 
 CNN filters were visualized to understand what biological patterns the model learned.
-
+--- 
 🧩 Learned Motifs
 <img src="Analysis_visualization/motif_analysis1.png" width="500"> 
 <img src="Analysis_visualization/otif_analysis1.png" width="500">
 <img src="Analysis_visualization/otif_analysis3.png" width="500">
+--- 
 🧠 Biological Interpretation
 
 Strong A/T rich patterns observed
